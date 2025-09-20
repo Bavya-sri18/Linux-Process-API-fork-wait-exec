@@ -50,7 +50,6 @@ int main() {
 <img width="292" height="146" alt="image" src="https://github.com/user-attachments/assets/898b1c34-55d9-45ea-8c31-f69e3992f532" />
 
 
-
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
 
 ```
@@ -97,24 +96,8 @@ int main() {
 ```
 
 ### OUTPUT
+
 <img width="637" height="307" alt="image" src="https://github.com/user-attachments/assets/df583bbc-f4aa-4dcf-bd7a-b092e661eae6" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # RESULT:
 The programs are executed successfully.
